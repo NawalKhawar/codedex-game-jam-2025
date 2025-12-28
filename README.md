@@ -17,9 +17,7 @@ Prerequisites: Windows 10 or 11 (64-bit)
 - **IDE**: Visual Studio 2026
 - **OS**: Windows 11
 - **Graphics Rendering and Audio**: SFML  
-- **Assets**: screen layouts and most UI elements designed on Canva from scratch, some assets taken from `Itch.io` (credited below)
-
-## 📃 Credits
+- **Assets**: screen layouts and most UI elements designed on Canva from scratch, some assets taken from `Itch.io`
 
 
 
