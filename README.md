@@ -4,6 +4,7 @@ My submission for Codedex's first Game Jam! Their theme was `The Changing of Tim
 # Operation: Containment()
 
 ## ℹ️ About Game
+_(A game about cybersecurity in the style of the GBA Pokemon games!)_
 You are a junior cybersecurity professional at SoftDev Labs. A virus has infected your office systems. It tampers with system clocks and memory states, causing temporal glitches that constantly reset your progress. Your job? Contain the virus before it reaches critical servers or external networks, and wreaks havoc company-wide!
 
 ## 💻 How to Run 
