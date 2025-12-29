@@ -10,7 +10,7 @@ You are a junior cybersecurity professional at SoftDev Labs. A virus has infecte
 Prerequisites: Windows 10 or 11 
 1. Download the .zip file from this repository
 2. Extract the .zip file
-3. Run `operation_containment.exe`
+3. Run `Operation_Containment.exe`
 
 ## ⚙️ Dev Tools & Assets Used
 - **Language**: C++
